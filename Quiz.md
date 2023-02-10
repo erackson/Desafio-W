@@ -31,3 +31,21 @@
 > Q: O que é um espumante "Blanc de Noir"?  
 > R: Um espumante branco elaborado com uva(s) tintas (s).  
 
+> Q: Qual a principal uva TINTA de Valpolicella, na Itália?  
+> R: Corvina  
+
+> Q: Qual é a principal uva tinta cultivada em Mendonza, na Argentina?  
+> R: Malbec  
+
+> Q: Qual a melhor forma para guardar o vinho?  
+> R: Local fresco e arejado  
+
+> Q: O Vinho VIK A, que pode ser encontrado no catálogo da Wine, é produzido em qual país?  
+> R: Chile  
+
+> Q: As regiões da Califórnia, Monterey e Santa Bárbara são conhecidas pelas uvas:  
+> R: Pinot Noir e Chardonnay  
+
+> Q: A Gamay é a uva...  
+> R: Utilizada para fazer Beaujolais  
+
