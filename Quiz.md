@@ -49,3 +49,17 @@
 > Q: A Gamay é a uva...  
 > R: Utilizada para fazer Beaujolais  
 
+> Q: O processo que consiste na transformação do ácido málico em ácido lático no vinho, por bactérias é:  
+> R: Malolática  
+
+> Q: Assinale a correta:  
+> R: Vinho tinto na temperatura ideal de serviço é melhor para perceber os aromas  
+
+> Q: As videiras da região de Colares (Portugal) são plantadas em qual tipo de solo?  
+> R: Area de dunas  
+
+> Q: Qual o nome da Praga que devastou vinhedos no mundo?  
+> R: Filoxera  
+
+> Q: O que significa um corte GSM?  
+> R: Grenache, Syrah e Mourvèdre, 3 uvas formando GSM  
