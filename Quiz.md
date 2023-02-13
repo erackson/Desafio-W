@@ -63,3 +63,33 @@
 
 > Q: O que significa um corte GSM?  
 > R: Grenache, Syrah e Mourvèdre, 3 uvas formando GSM  
+
+> Q: Qual das regiões abaixo é uma Denominação de Origem da Espanha?  
+> R: Ribera del Duero  
+
+> Q: A Alemanha possui quantas regiões vinícolas?  
+> R: 13 regiões  
+
+> Q: Quantas AVAs possui Napa Valley?  
+> R: 16  
+
+> Q: O Vale dos vinhedos fica localizado em qual destas regiões?  
+> R: Serra Gaúcha  
+
+> Q: Qual uva é mais plantada na Margem Esquerda de Bordeaux?  
+> R: Cabernet Sauvignon  
+
+> Q: Quem é o enólogo no mundo do vinho?  
+> R: Profissional responsável pelo processo de vinificação  
+
+> Q: Como se pronuncia a uva Chardonnay?  
+> R: Chardonê  
+
+> Q: A uva Pinotage é um cruzamento das uvas:  
+> R: Pinot noir e Hermitage (Cinsault)  
+
+> Q: Queijos duros como o parmesão combinam com quais TINTOS?  
+> R: Chianti, Barolo, Brunello  
+
+> Q: O que significa o termo "chevillé"?  
+> R: A rolha de cortiça mais velha que não expande ao abrir a garrafa  
