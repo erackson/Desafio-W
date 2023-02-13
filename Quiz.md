@@ -93,3 +93,9 @@
 
 > Q: O que significa o termo "chevillé"?  
 > R: A rolha de cortiça mais velha que não expande ao abrir a garrafa  
+
+> Q: Coonawarra é uma região vitivinícola de que país?  
+> R: Austrália  
+
+> Q: Qual a principal característica da acidez do vinho no paladar?  
+> R: Salivação
