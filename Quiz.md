@@ -99,3 +99,18 @@
 
 > Q: Qual a principal característica da acidez do vinho no paladar?  
 > R: Salivação
+
+> Q: O que significa o termo "juponé"?  
+> R: A rolha quando expande depois de abrir a garrafa com formato de cogumelo  
+
+> Q: O que é Prosecco?  
+> R: Um vinho espumante produzido nas regiões de Veneto e Friuli-Venezia Giulia, na Itália  
+
+> Q: Qual abaixo é uma uva TINTA do Sul do Rhône?  
+> R: Grenache Noir  
+
+> Q: Qual a maneira correta de abrir um espumante?  
+> R: Segurando a garrafa na diagonal, longe do rosto, segurando a rolha para sair aos poucos  
+
+> Q: Assinale a combinação ERRADA de país e uva:  
+> R: Argentina - Pinot Noir  
